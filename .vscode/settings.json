@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/404747cc-f565-48be-b89b-fd171fb69092/resourceGroups/hw4/providers/Microsoft.Web/sites/yoyoweb",
+    "appService.deploySubpath": "assets"
+}
